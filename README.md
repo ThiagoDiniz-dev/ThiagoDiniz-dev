@@ -8,19 +8,18 @@
 ---
 
 ## 🚀 Projetos
-⚖️ **Calculadora de IMC** — Aplicativo Android para cálcuo de IMC, desenvolvido com Kotlin.   
-    O usuário entra com dados de peso e altura, e o aplicativo exibe o valor de IMC com base nos intervalos definidos pela OMS. O app já está com lógica implementada, o foco      agora é melhorar a interface e experiência visual (UI/UX). 
-    
-🔗 [Ver repositório](https://github.com/ThiagoDiniz-dev/Calculadora-IMC)  
 
-  
+⚖️ **Calculadora de IMC** — Aplicativo Android para cálculo de IMC, desenvolvido com Kotlin.  
+O usuário entra com dados de peso e altura, e o aplicativo exibe o valor de IMC com base nos intervalos definidos pela OMS. O app já está com lógica implementada; o foco agora é melhorar a interface e experiência visual (UI/UX).  
+🔗 [Ver repositório](https://github.com/ThiagoDiniz-dev/Calculadora-IMC)
 
-### 🚗🪪**Renovação de CNH**
-Aplicativo Android desenvolvido em Java como parte de um trabalho da disciplina de *Programação para Dispositivos Móveis*.  
+<br>
+
+🚗🪪 **Renovação de CNH** — Aplicativo Android desenvolvido em Java como parte de um trabalho da disciplina de *Programação para Dispositivos Móveis*.  
 O usuário insere nome, idade e seleciona a categoria da CNH. Com base nas informações, o app calcula o prazo de renovação e, quando aplicável, informa sobre a obrigatoriedade do exame toxicológico. O relatório pode ser compartilhado por outros apps.  
-O projeto está funcional e será futuramente será migrado para **Kotlin**, com melhorias de interface e arquitetura.
-
+O projeto está funcional e futuramente será migrado para **Kotlin**, com melhorias de interface e arquitetura.  
 🔗 [Ver repositório](https://github.com/ThiagoDiniz-dev/RenovacaoCNH)
+
 
 
 ---
