@@ -1,5 +1,5 @@
 # 👋 Olá! Eu sou o Thiago Diniz
-🎓 Estudante do último semestre de Análise e Desenvolvimento de Sistemas  
+🎓 Biólogo e Tecnólogo em Análise e Desenvolvimento de Sistemas  
 📱 Em transição de carreira, atualmente focado em desenvolvimento Android  
 💡 Estudando Kotlin, Android Studio, boas práticas de UI/UX e integração com banco de dados (SQLite)  
 🚧 Desenvolvendo projeto próprios para treinar e consolidar aprendizados  
@@ -26,11 +26,11 @@ O projeto está funcional e futuramente será migrado para **Kotlin**, com melho
 
 ## 🌱 O que já estou estudando:
 
+- Programação Orientada a Objeto
 - Kotlin + Android Studio
 - Ciclo de Vida de Activities e Fragments
 - Recuperaão e manipulação de compnentes de UI
-- Gerenciamento de estado de dados no ANdroid
-- Banco de Dados Local (SQLite)
+- Conceitos de Clean Architecture
 - Versionamento com Git e GitHub
 
 ---
