@@ -8,19 +8,17 @@
 ---
 
 ## 🚀 Projetos
-
-⚖️ **Calculadora de IMC** — Aplicativo Android para cálculo de IMC, desenvolvido com Kotlin.  
-O usuário entra com dados de peso e altura, e o aplicativo exibe o valor de IMC com base nos intervalos definidos pela OMS. O app já está com lógica implementada; o foco agora é melhorar a interface e experiência visual (UI/UX).  
-🔗 [Ver repositório](https://github.com/ThiagoDiniz-dev/Calculadora-IMC)
-
-<br>
-
-🚗🪪 **Renovação de CNH** — Aplicativo Android desenvolvido em Java como parte de um trabalho da disciplina de *Programação para Dispositivos Móveis*.  
+**Renovação de CNH** — Aplicativo Android desenvolvido em Java como parte de um trabalho da disciplina de *Programação para Dispositivos Móveis*.  
 O usuário insere nome, idade e seleciona a categoria da CNH. Com base nas informações, o app calcula o prazo de renovação e, quando aplicável, informa sobre a obrigatoriedade do exame toxicológico. O relatório pode ser compartilhado por outros apps.  
 O projeto está funcional e futuramente será migrado para **Kotlin**, com melhorias de interface e arquitetura.  
 🔗 [Ver repositório](https://github.com/ThiagoDiniz-dev/RenovacaoCNH)
 
 
+**Gerador de Apostas Mega Sena** — Aplicativo Android nativo que gera aleatóriamente Jogos para a Mega Sena 
+O usuário entra com a quantidade de números desejados no jogo; o app valida a entrada feita pelo usuário; o app gera números aleatórios sem repetição e exibe o resultado do gerado na interface. O app armazena a última aposta gerada a mostra na interafce.  
+🔗 [Ver repositório](https://github.com/ThiagoDiniz-dev/Ganhei-na-Mega))
+
+<br>
 
 ---
 
