@@ -14,7 +14,7 @@ O projeto está funcional e futuramente será migrado para **Kotlin**, com melho
 🔗 [Ver repositório](https://github.com/ThiagoDiniz-dev/RenovacaoCNH)
 
 
-**Gerador de Apostas Mega Sena** — Aplicativo Android nativo que gera aleatóriamente Jogos para a Mega Sena 
+**Gerador de Apostas Mega Sena** — Aplicativo Android nativo que gera aleatóriamente Jogos para a Mega Sena.  
 O usuário entra com a quantidade de números desejados no jogo; o app valida a entrada feita pelo usuário; o app gera números aleatórios sem repetição e exibe o resultado do gerado na interface. O app armazena a última aposta gerada a mostra na interafce.  
 🔗 [Ver repositório](https://github.com/ThiagoDiniz-dev/Ganhei-na-Mega))
 
