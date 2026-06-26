@@ -3,7 +3,6 @@
 📱 Desenvolvedor Android em Formação, com foco em Kotlin e desenvolvimento Nativo  
 🚧 Desenvolvo projetos práticos para consolidar conceitos da plataforma, escrever código organizado, reutilizável e alinhado às boas práticas do desenvolvimento Android
 
----
 
 ## 🚀 Projetos
 **Gerador de Apostas Mega Sena** — Aplicativo Android nativo que gera aleatóriamente Jogos para a Mega Sena.  
@@ -15,9 +14,7 @@ O usuário insere nome, idade e seleciona a categoria da CNH. Com base nas infor
 O projeto está funcional e futuramente será migrado para **Kotlin**, com melhorias de interface e arquitetura.  
 🔗 [Ver repositório](https://github.com/ThiagoDiniz-dev/RenovacaoCNH)
 
-<br>
 
----
 
 ## 🌱 Conhecimentos já praticados:
 - Programação Orientada a Objeto
@@ -32,7 +29,7 @@ O projeto está funcional e futuramente será migrado para **Kotlin**, com melho
 - Git
 - GitHub
   
----
+
 
 ## 🌱 Atualmente Estudando
 - Fragments
@@ -42,7 +39,7 @@ O projeto está funcional e futuramente será migrado para **Kotlin**, com melho
 - Material Desing 3
 - View Binding
 
----
+
 
 ## 🛤️ Próximos passos
 - Consumo de API REST
@@ -52,12 +49,12 @@ O projeto está funcional e futuramente será migrado para **Kotlin**, com melho
 - JetPackt Compose
 - Publicação na Play Store
 
----
+
 
 ## 🎯 Objetivo Profissional
 - Construir uma base sólida em desenvolvimento Android Nativo por meio de criação de projetos práticos, aplicação progressiva de conceitos de arquitetura, persistência de dados, consumo de API e boas práticas de desenvolvimento de software.
 
----
+
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thiagodiniz3010)  
